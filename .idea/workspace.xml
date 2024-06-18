@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06144f55-0f01-4432-b8c7-e2e4016dafa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TugasbesarPBO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/MarketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tugasbesar/item.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitMarket/FruitMarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitMarket/FruitMarket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitMarket/src/views/item.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitMarket/src/views/item.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitMarket/src/views/market.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitMarket/src/views/market.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2i3V10RekbAUjO4fz2BAnZuCQ6q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/afifuddin/IdeaProjects/tugasbesar/src/values"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\afifuddin\IdeaProjects\tugasbesar\src\values" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\afifuddin\IdeaProjects\tugasbesar\src\main\resources\com\example\img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06144f55-0f01-4432-b8c7-e2e4016dafa2" name="Changes" comment="" />
+      <created>1718719033319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718719033319</updated>
+    </task>
+    <servers />
+  </component>
+</project>
